@@ -1,0 +1,4 @@
+Eventqueue.c:12:6:EVENTQUEUE_init	16	static
+Eventqueue.c:19:6:EVENTQUEUE_handler	16	static
+Eventqueue.c:65:6:EVENTQUEUE_add_event	16	static
+Eventqueue.c:78:6:EVENTQUEUE_remove_event	4	static
